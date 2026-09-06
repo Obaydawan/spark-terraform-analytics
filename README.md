@@ -5,7 +5,7 @@ A production-grade distributed batch and analytics platform processing 20.33 mil
 ## Project Status
 - [x] **Phase 1: Data Acquisition & Landing Zone** (20.33M rows ingested, schema validation across 6 consecutive months)
 - [x] **Phase 2: Spark Transform & Partitioning Engine** (broadcast joins, 7-day rolling window analytics, borough/date partitioning)
-- [ ] **Phase 3: Formal Testing & Validation Suite** (chispa/pytest data contracts)
+- [x] **Phase 3: Formal Testing & Validation Suite** (chispa/pytest data contracts)
 - [ ] **Phase 4: Analytics Dashboard** (Streamlit zone metrics & heatmap)
 - [ ] **Phase 5: Terraform Infrastructure as Code** (S3/IAM provisioning with CI plan checks)
 - [ ] **Phase 6: Production Scaling Blueprint & Case Study**
