@@ -1,6 +1,6 @@
 # Distributed Analytics Platform (Spark + Terraform)
 
-A production-grade distributed batch and analytics platform processing 20.33 million records (~3.5GB in-memory footprint) from the NYC TLC Trip Record dataset. Engineered to demonstrate distributed data engineering patterns—partition pruning, map-side broadcast joins, shuffle tuning, and analytical window functions—paired with Infrastructure as Code (IaC) via Terraform.
+A production-grade distributed batch and analytics platform processing 20.33 million records (~3.5GB in-memory footprint) from the NYC TLC Trip Record dataset. Engineered to demonstrate distributed data engineering patterns—partition pruning, map-side broadcast joins, shuffle tuning, and analytical window functions—paired with Infrastructure as Code (IaC) via Terraform
 
 ## Project Status
 - [x] **Phase 1: Data Acquisition & Landing Zone** (20.33M rows ingested, schema validation across 6 consecutive months)
